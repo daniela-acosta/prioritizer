@@ -1,0 +1,24 @@
+.footer {
+  padding: 128px 40px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+}
+
+.divider {
+  height: 0.5px;
+  width: 768px;
+  background-color: #c6c6c6;
+}
+
+.contact {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.social {
+  display: flex;
+  gap: 16px;
+}
